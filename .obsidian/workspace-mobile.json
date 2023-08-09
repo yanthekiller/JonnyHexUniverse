@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "539cd2483e58d365",
+    "type": "split",
+    "children": [
+      {
+        "id": "fa029be508c25251",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08f3e4e359440c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f0f7f8406e5c120e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2698aa29200ae51a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "08ce82be25fbdb2c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f43d2d447d756d70",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "d9739e167606c1cb",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "37cee1b7678e1211",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "14cd454aa36a704d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a7360a3f319e0d06",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a324487972f0b719",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Организации/Тайный подорден Ордена Святого Гнева.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "08f3e4e359440c41",
+  "lastOpenFiles": [
+    "Персонажи/Биг Босс.md",
+    "Организации/Тайный подорден Ордена Святого Гнева.md",
+    "s0Kzbvr-S7o.jpg",
+    "Персонажи/Шторми.md",
+    "Персонажи/Ширра.md",
+    "Персонажи/Лоттор.md",
+    "Персонажи/Арлекин.md",
+    "Персонажи/Чумной Доктор.md",
+    "Персонажи/Самди.md",
+    "Персонажи/Рыцарь Командор 217.md",
+    "Персонажи/Проповедник ХЗ lV.md",
+    "Персонажи/Принцесса.md",
+    "Персонажи/Помощница проповедника.md",
+    "Персонажи/Наташа.md",
+    "Организации/Big Boss Corp.md",
+    "Организации.md",
+    "Организации/Лаборатория Биг Босса 2.md",
+    "Арты/zuVftMhTAHM.jpg",
+    "Арты/ZOT3Y1onszU.jpg",
+    "Арты/Yzh5nQ1e8gc.jpg",
+    "Арты/uJ1trXADRSo.jpg",
+    "Арты/tumblr_9b2b458698d1dbdd3f437ea35af50a7e_c9c8ac79_1280.jpg",
+    "Арты/jjybBES4BC4.jpg",
+    "Арты/iOaqpuz-MGk.jpg",
+    "Арты/H22swSKvitI.jpg",
+    "Арты/BnG2H1zAsWI.jpg"
+  ]
+}
