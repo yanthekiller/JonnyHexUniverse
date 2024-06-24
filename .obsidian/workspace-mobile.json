@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fa029be508c25251",
+        "id": "655613c8a1f17d75",
         "type": "tabs",
         "children": [
           {
-            "id": "08f3e4e359440c41",
+            "id": "9bbacbe33814a0c8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+                "file": "Персонажи/Детективное агентство Рейна/Рейн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "20adffc871965509",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Детективное агентство Рейна/Рейн.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65bddf12b17f8d03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Персонажи/Одиночки/Роберт.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+            "file": "Персонажи/Одиночки/Роберт.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Организации/Тайный подорден Ордена Святого Гнева.md",
+            "file": "Персонажи/Одиночки/Роберт.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +139,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Организации/Тайный подорден Ордена Святого Гнева.md"
+            "file": "Персонажи/Одиночки/Роберт.md"
           }
         }
       }
@@ -128,36 +153,57 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "08f3e4e359440c41",
+  "active": "65bddf12b17f8d03",
   "lastOpenFiles": [
-    "Персонажи/Биг Босс.md",
+    "Персонажи/BB Military Logistics/Р-100.md",
+    "Персонажи/Одиночки/Роберт.md",
+    "Персонажи/BB Military Logistics/Биг Босс.md",
+    "Персонажи/BB Military Logistics/Арида.md",
+    "Правила/Основные/Лист персонажа.md",
+    "Персонажи/Орден стальной веры/Рыцарь Командор 217.md",
+    "Персонажи/BB Military Logistics/Объект 5 Сталь.md",
+    "Персонажи/BB Military Logistics/Объект 123 Ведьма.md",
+    "Организации/Агентство Devil May Cry.md",
+    "Персонажи/Агентство Devil May Cry",
+    "Организации/Агенство Рейна.md",
+    "Персонажи/Детективное агентство Рейна/Рейн.md",
+    "Тест силы Йонмана.md",
+    "Персонажи/Детективное агентство Рейна",
+    "Персонажи/Королевство Мира",
+    "Персонажи/Банда Лоттора",
+    "Персонажи/Блинная лавка Самди",
+    "Персонажи/Песня помощи",
+    "Персонажи/Орден стальной веры",
+    "Персонажи/Полицейский департамент супер-полиции",
+    "Персонажи/Одиночки/Джонни Хэкс.md",
+    "Персонажи/Орден стальной веры/Арлекин.md",
+    "Правила/Drawing 2024-06-24 10.16.28.excalidraw.md",
+    "Правила/Боевые/1. Правила боя.md",
+    "Правила/Боевые/Начало хода.md",
+    "Правила/Основные",
+    "Правила/Небоевые",
+    "Амид.md",
+    "Организации/Grand Hotel Lux.md",
+    "Гарл.md",
+    "Организации/Emilia Onyx Corp.md",
+    "Организации/BB Military Logistics.md",
+    "Организации/Центральный отель Лондона.md",
     "Организации/Тайный подорден Ордена Святого Гнева.md",
-    "s0Kzbvr-S7o.jpg",
-    "Персонажи/Шторми.md",
-    "Персонажи/Ширра.md",
-    "Персонажи/Лоттор.md",
-    "Персонажи/Арлекин.md",
-    "Персонажи/Чумной Доктор.md",
-    "Персонажи/Самди.md",
-    "Персонажи/Рыцарь Командор 217.md",
-    "Персонажи/Проповедник ХЗ lV.md",
-    "Персонажи/Принцесса.md",
-    "Персонажи/Помощница проповедника.md",
-    "Персонажи/Наташа.md",
-    "Организации/Big Boss Corp.md",
-    "Организации.md",
-    "Организации/Лаборатория Биг Босса 2.md",
+    "Организации/Супремус Ордо Контра Херетикус.md",
+    "Организации/Спец. Отряд особого назначения.md",
+    "Арты/Warhammer-40000-фэндомы-Librarium-Chaos-(Wh-40000)-7511401.jpeg",
     "Арты/zuVftMhTAHM.jpg",
     "Арты/ZOT3Y1onszU.jpg",
     "Арты/Yzh5nQ1e8gc.jpg",
+    "Арты/XJ3yz5_xr9s.jpg",
     "Арты/uJ1trXADRSo.jpg",
     "Арты/tumblr_9b2b458698d1dbdd3f437ea35af50a7e_c9c8ac79_1280.jpg",
+    "Арты/s0Kzbvr-S7o.jpg",
     "Арты/jjybBES4BC4.jpg",
-    "Арты/iOaqpuz-MGk.jpg",
-    "Арты/H22swSKvitI.jpg",
-    "Арты/BnG2H1zAsWI.jpg"
+    "Арты/iOaqpuz-MGk.jpg"
   ]
 }

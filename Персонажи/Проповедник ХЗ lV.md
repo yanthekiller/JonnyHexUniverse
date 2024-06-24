@@ -1,2 +1,0 @@
-
-![[uJ1trXADRSo.jpg]]
